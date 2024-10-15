@@ -131,7 +131,7 @@ function App(){
               <div className="img-thumb wow fadeInLeft" data-wow-delay="0.3s">
                 <img
                   className="img-fluid"
-                  src="public/assets/img/about/20240614_122746.jpg"
+                  src="assets/img/about/20240614_122746.jpg"
                   alt=""
                 />
               </div>
