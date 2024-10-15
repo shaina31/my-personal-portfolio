@@ -185,7 +185,7 @@ function App(){
                     </li>
                   </ul>
                 </div>
-                <a href="/assets/MyResume.pdf" download="My_Resume.pdf" className="btn btn-common">
+                <a href="assets/MyResume.pdf" download="My_Resume.pdf" className="btn btn-common">
                   <i className="icon-paper-clip" /> Download Resume
                 </a>
                 <a href="#contact" className="btn btn-danger">
