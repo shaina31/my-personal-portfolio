@@ -457,9 +457,6 @@ function App(){
                           <i className="icon-link" />
                         </a>
                       </div>
-                      <a>
-                        <i className ="icon-close"/>
-                      </a>
                     </div>
                   </div>
                     <p style={{ textAlign: 'center', marginTop: '10px' }}>
@@ -485,9 +482,6 @@ function App(){
                           <i className="icon-link" />
                         </a>
                       </div>
-                      <a>
-                        <i className ="icon-close"/>
-                      </a>
                     </div>
                   </div>
                     <p style={{ textAlign: 'center', marginTop: '10px' }}>
@@ -513,9 +507,6 @@ function App(){
                           <i className="icon-link" />
                         </a>
                       </div>
-                      <a>
-                        <i className ="icon-close"/>
-                      </a>
                     </div>
                   </div>
                     <p style={{ textAlign: 'center', marginTop: '10px' }}>
