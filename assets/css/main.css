@@ -884,7 +884,6 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 a:not([href]):not([tabindex]) {
   color: #fff;
-  display: flex;
 }
 
 a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
